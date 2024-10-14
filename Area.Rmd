@@ -1,0 +1,16 @@
+---
+title: "Areas"
+author: "Carlos Ribes García"
+---
+
+
+
+```{r}
+knitr::opts_chunk$set(echo=TRUE)
+```
+
+```{r}
+r<- 0.5
+area <- pi*r^2
+```
+
