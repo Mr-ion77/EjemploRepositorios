@@ -9,12 +9,15 @@ author: "Carlos Ribes García"
 knitr::opts_chunk$set(echo=TRUE)
 ```
 
+#Area círculo
 ```{r}
 r<- 0.5
 area <- pi*r^2
 ```
 
+#Area cuadrado
 ```{r}
-volumen <- (4/3)*pi*r^3
+Lado <- 3
+AreaCuadrado<- Lado^2
 ```
 
